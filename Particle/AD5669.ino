@@ -10,7 +10,7 @@
 // AD5669 I2C address is 0x56(86)
 #define Addr 0x56
 
-float voltage = 0.0;
+double voltage = 0.0;
 
 void setup()
 {
@@ -46,5 +46,5 @@ void loop()
 
   // Output data to dashboard
   Particle.publish("Voltage : ", String(voltage));
-  delay(500);
+  delay(1000);
 }
