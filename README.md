@@ -8,7 +8,7 @@ This Device is available from ControlEverything.com [SKU: AD5669_I2CDAC]
 
 https://www.controleverything.com/content/Digital-Analog?sku=AD5669_I2CDAC
 
-This Sample code can be used with Raspberry Pi, Arduino, Particlee Photon, Beaglebone Black and Onion Omega.
+This Sample code can be used with Raspberry Pi, Arduino, Particle Photon, Beaglebone Black and Onion Omega.
 
 ## Java
 Download and install pi4j library on Raspberry pi. Steps to install pi4j are provided at:
